@@ -1,0 +1,4330 @@
+{
+  "version": "synthetic-v1",
+  "synthetic": true,
+  "seed": 42,
+  "description": "30 synthetic products; shared templates; split by product, not by template.",
+  "documents": [
+    {
+      "id": "SP001-return",
+      "group": "SP001",
+      "title": "Đổi trả — SP001",
+      "text": "Khách có thể trả lại SP001 trong 14 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP001-warranty",
+      "group": "SP001",
+      "title": "Bảo hành — SP001",
+      "text": "SP001 được sửa chữa miễn phí do lỗi nhà sản xuất trong 12 tháng."
+    },
+    {
+      "id": "SP001-shipping",
+      "group": "SP001",
+      "title": "Vận chuyển — SP001",
+      "text": "Giao SP001 mất 2 ngày làm việc. Đơn từ 300000 đồng được miễn cước."
+    },
+    {
+      "id": "SP001-refund",
+      "group": "SP001",
+      "title": "Hoàn tiền — SP001",
+      "text": "Sau khi duyệt, tiền mua SP001 được chuyển lại trong 7 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP001-cancel",
+      "group": "SP001",
+      "title": "Hủy đơn — SP001",
+      "text": "Có thể ngừng đơn SP001 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP001-payment",
+      "group": "SP001",
+      "title": "Thanh toán — SP001",
+      "text": "Mua SP001 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP002-return",
+      "group": "SP002",
+      "title": "Đổi trả — SP002",
+      "text": "Khách có thể trả lại SP002 trong 10 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP002-warranty",
+      "group": "SP002",
+      "title": "Bảo hành — SP002",
+      "text": "SP002 được sửa chữa miễn phí do lỗi nhà sản xuất trong 12 tháng."
+    },
+    {
+      "id": "SP002-shipping",
+      "group": "SP002",
+      "title": "Vận chuyển — SP002",
+      "text": "Giao SP002 mất 3 ngày làm việc. Đơn từ 300000 đồng được miễn cước."
+    },
+    {
+      "id": "SP002-refund",
+      "group": "SP002",
+      "title": "Hoàn tiền — SP002",
+      "text": "Sau khi duyệt, tiền mua SP002 được chuyển lại trong 3 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP002-cancel",
+      "group": "SP002",
+      "title": "Hủy đơn — SP002",
+      "text": "Có thể ngừng đơn SP002 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP002-payment",
+      "group": "SP002",
+      "title": "Thanh toán — SP002",
+      "text": "Mua SP002 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP003-return",
+      "group": "SP003",
+      "title": "Đổi trả — SP003",
+      "text": "Khách có thể trả lại SP003 trong 10 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP003-warranty",
+      "group": "SP003",
+      "title": "Bảo hành — SP003",
+      "text": "SP003 được sửa chữa miễn phí do lỗi nhà sản xuất trong 6 tháng."
+    },
+    {
+      "id": "SP003-shipping",
+      "group": "SP003",
+      "title": "Vận chuyển — SP003",
+      "text": "Giao SP003 mất 2 ngày làm việc. Đơn từ 500000 đồng được miễn cước."
+    },
+    {
+      "id": "SP003-refund",
+      "group": "SP003",
+      "title": "Hoàn tiền — SP003",
+      "text": "Sau khi duyệt, tiền mua SP003 được chuyển lại trong 3 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP003-cancel",
+      "group": "SP003",
+      "title": "Hủy đơn — SP003",
+      "text": "Có thể ngừng đơn SP003 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP003-payment",
+      "group": "SP003",
+      "title": "Thanh toán — SP003",
+      "text": "Mua SP003 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP004-return",
+      "group": "SP004",
+      "title": "Đổi trả — SP004",
+      "text": "Khách có thể trả lại SP004 trong 10 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP004-warranty",
+      "group": "SP004",
+      "title": "Bảo hành — SP004",
+      "text": "SP004 được sửa chữa miễn phí do lỗi nhà sản xuất trong 12 tháng."
+    },
+    {
+      "id": "SP004-shipping",
+      "group": "SP004",
+      "title": "Vận chuyển — SP004",
+      "text": "Giao SP004 mất 5 ngày làm việc. Đơn từ 500000 đồng được miễn cước."
+    },
+    {
+      "id": "SP004-refund",
+      "group": "SP004",
+      "title": "Hoàn tiền — SP004",
+      "text": "Sau khi duyệt, tiền mua SP004 được chuyển lại trong 3 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP004-cancel",
+      "group": "SP004",
+      "title": "Hủy đơn — SP004",
+      "text": "Có thể ngừng đơn SP004 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP004-payment",
+      "group": "SP004",
+      "title": "Thanh toán — SP004",
+      "text": "Mua SP004 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP005-return",
+      "group": "SP005",
+      "title": "Đổi trả — SP005",
+      "text": "Khách có thể trả lại SP005 trong 14 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP005-warranty",
+      "group": "SP005",
+      "title": "Bảo hành — SP005",
+      "text": "SP005 được sửa chữa miễn phí do lỗi nhà sản xuất trong 12 tháng."
+    },
+    {
+      "id": "SP005-shipping",
+      "group": "SP005",
+      "title": "Vận chuyển — SP005",
+      "text": "Giao SP005 mất 5 ngày làm việc. Đơn từ 300000 đồng được miễn cước."
+    },
+    {
+      "id": "SP005-refund",
+      "group": "SP005",
+      "title": "Hoàn tiền — SP005",
+      "text": "Sau khi duyệt, tiền mua SP005 được chuyển lại trong 5 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP005-cancel",
+      "group": "SP005",
+      "title": "Hủy đơn — SP005",
+      "text": "Có thể ngừng đơn SP005 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP005-payment",
+      "group": "SP005",
+      "title": "Thanh toán — SP005",
+      "text": "Mua SP005 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP006-return",
+      "group": "SP006",
+      "title": "Đổi trả — SP006",
+      "text": "Khách có thể trả lại SP006 trong 7 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP006-warranty",
+      "group": "SP006",
+      "title": "Bảo hành — SP006",
+      "text": "SP006 được sửa chữa miễn phí do lỗi nhà sản xuất trong 24 tháng."
+    },
+    {
+      "id": "SP006-shipping",
+      "group": "SP006",
+      "title": "Vận chuyển — SP006",
+      "text": "Giao SP006 mất 3 ngày làm việc. Đơn từ 700000 đồng được miễn cước."
+    },
+    {
+      "id": "SP006-refund",
+      "group": "SP006",
+      "title": "Hoàn tiền — SP006",
+      "text": "Sau khi duyệt, tiền mua SP006 được chuyển lại trong 7 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP006-cancel",
+      "group": "SP006",
+      "title": "Hủy đơn — SP006",
+      "text": "Có thể ngừng đơn SP006 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP006-payment",
+      "group": "SP006",
+      "title": "Thanh toán — SP006",
+      "text": "Mua SP006 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP007-return",
+      "group": "SP007",
+      "title": "Đổi trả — SP007",
+      "text": "Khách có thể trả lại SP007 trong 10 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP007-warranty",
+      "group": "SP007",
+      "title": "Bảo hành — SP007",
+      "text": "SP007 được sửa chữa miễn phí do lỗi nhà sản xuất trong 24 tháng."
+    },
+    {
+      "id": "SP007-shipping",
+      "group": "SP007",
+      "title": "Vận chuyển — SP007",
+      "text": "Giao SP007 mất 2 ngày làm việc. Đơn từ 700000 đồng được miễn cước."
+    },
+    {
+      "id": "SP007-refund",
+      "group": "SP007",
+      "title": "Hoàn tiền — SP007",
+      "text": "Sau khi duyệt, tiền mua SP007 được chuyển lại trong 3 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP007-cancel",
+      "group": "SP007",
+      "title": "Hủy đơn — SP007",
+      "text": "Có thể ngừng đơn SP007 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP007-payment",
+      "group": "SP007",
+      "title": "Thanh toán — SP007",
+      "text": "Mua SP007 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP008-return",
+      "group": "SP008",
+      "title": "Đổi trả — SP008",
+      "text": "Khách có thể trả lại SP008 trong 7 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP008-warranty",
+      "group": "SP008",
+      "title": "Bảo hành — SP008",
+      "text": "SP008 được sửa chữa miễn phí do lỗi nhà sản xuất trong 24 tháng."
+    },
+    {
+      "id": "SP008-shipping",
+      "group": "SP008",
+      "title": "Vận chuyển — SP008",
+      "text": "Giao SP008 mất 2 ngày làm việc. Đơn từ 500000 đồng được miễn cước."
+    },
+    {
+      "id": "SP008-refund",
+      "group": "SP008",
+      "title": "Hoàn tiền — SP008",
+      "text": "Sau khi duyệt, tiền mua SP008 được chuyển lại trong 3 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP008-cancel",
+      "group": "SP008",
+      "title": "Hủy đơn — SP008",
+      "text": "Có thể ngừng đơn SP008 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP008-payment",
+      "group": "SP008",
+      "title": "Thanh toán — SP008",
+      "text": "Mua SP008 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP009-return",
+      "group": "SP009",
+      "title": "Đổi trả — SP009",
+      "text": "Khách có thể trả lại SP009 trong 7 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP009-warranty",
+      "group": "SP009",
+      "title": "Bảo hành — SP009",
+      "text": "SP009 được sửa chữa miễn phí do lỗi nhà sản xuất trong 6 tháng."
+    },
+    {
+      "id": "SP009-shipping",
+      "group": "SP009",
+      "title": "Vận chuyển — SP009",
+      "text": "Giao SP009 mất 3 ngày làm việc. Đơn từ 500000 đồng được miễn cước."
+    },
+    {
+      "id": "SP009-refund",
+      "group": "SP009",
+      "title": "Hoàn tiền — SP009",
+      "text": "Sau khi duyệt, tiền mua SP009 được chuyển lại trong 5 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP009-cancel",
+      "group": "SP009",
+      "title": "Hủy đơn — SP009",
+      "text": "Có thể ngừng đơn SP009 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP009-payment",
+      "group": "SP009",
+      "title": "Thanh toán — SP009",
+      "text": "Mua SP009 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP010-return",
+      "group": "SP010",
+      "title": "Đổi trả — SP010",
+      "text": "Khách có thể trả lại SP010 trong 14 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP010-warranty",
+      "group": "SP010",
+      "title": "Bảo hành — SP010",
+      "text": "SP010 được sửa chữa miễn phí do lỗi nhà sản xuất trong 12 tháng."
+    },
+    {
+      "id": "SP010-shipping",
+      "group": "SP010",
+      "title": "Vận chuyển — SP010",
+      "text": "Giao SP010 mất 2 ngày làm việc. Đơn từ 500000 đồng được miễn cước."
+    },
+    {
+      "id": "SP010-refund",
+      "group": "SP010",
+      "title": "Hoàn tiền — SP010",
+      "text": "Sau khi duyệt, tiền mua SP010 được chuyển lại trong 5 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP010-cancel",
+      "group": "SP010",
+      "title": "Hủy đơn — SP010",
+      "text": "Có thể ngừng đơn SP010 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP010-payment",
+      "group": "SP010",
+      "title": "Thanh toán — SP010",
+      "text": "Mua SP010 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP011-return",
+      "group": "SP011",
+      "title": "Đổi trả — SP011",
+      "text": "Khách có thể trả lại SP011 trong 7 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP011-warranty",
+      "group": "SP011",
+      "title": "Bảo hành — SP011",
+      "text": "SP011 được sửa chữa miễn phí do lỗi nhà sản xuất trong 24 tháng."
+    },
+    {
+      "id": "SP011-shipping",
+      "group": "SP011",
+      "title": "Vận chuyển — SP011",
+      "text": "Giao SP011 mất 3 ngày làm việc. Đơn từ 700000 đồng được miễn cước."
+    },
+    {
+      "id": "SP011-refund",
+      "group": "SP011",
+      "title": "Hoàn tiền — SP011",
+      "text": "Sau khi duyệt, tiền mua SP011 được chuyển lại trong 7 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP011-cancel",
+      "group": "SP011",
+      "title": "Hủy đơn — SP011",
+      "text": "Có thể ngừng đơn SP011 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP011-payment",
+      "group": "SP011",
+      "title": "Thanh toán — SP011",
+      "text": "Mua SP011 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP012-return",
+      "group": "SP012",
+      "title": "Đổi trả — SP012",
+      "text": "Khách có thể trả lại SP012 trong 14 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP012-warranty",
+      "group": "SP012",
+      "title": "Bảo hành — SP012",
+      "text": "SP012 được sửa chữa miễn phí do lỗi nhà sản xuất trong 6 tháng."
+    },
+    {
+      "id": "SP012-shipping",
+      "group": "SP012",
+      "title": "Vận chuyển — SP012",
+      "text": "Giao SP012 mất 5 ngày làm việc. Đơn từ 700000 đồng được miễn cước."
+    },
+    {
+      "id": "SP012-refund",
+      "group": "SP012",
+      "title": "Hoàn tiền — SP012",
+      "text": "Sau khi duyệt, tiền mua SP012 được chuyển lại trong 3 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP012-cancel",
+      "group": "SP012",
+      "title": "Hủy đơn — SP012",
+      "text": "Có thể ngừng đơn SP012 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP012-payment",
+      "group": "SP012",
+      "title": "Thanh toán — SP012",
+      "text": "Mua SP012 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP013-return",
+      "group": "SP013",
+      "title": "Đổi trả — SP013",
+      "text": "Khách có thể trả lại SP013 trong 14 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP013-warranty",
+      "group": "SP013",
+      "title": "Bảo hành — SP013",
+      "text": "SP013 được sửa chữa miễn phí do lỗi nhà sản xuất trong 24 tháng."
+    },
+    {
+      "id": "SP013-shipping",
+      "group": "SP013",
+      "title": "Vận chuyển — SP013",
+      "text": "Giao SP013 mất 2 ngày làm việc. Đơn từ 300000 đồng được miễn cước."
+    },
+    {
+      "id": "SP013-refund",
+      "group": "SP013",
+      "title": "Hoàn tiền — SP013",
+      "text": "Sau khi duyệt, tiền mua SP013 được chuyển lại trong 5 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP013-cancel",
+      "group": "SP013",
+      "title": "Hủy đơn — SP013",
+      "text": "Có thể ngừng đơn SP013 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP013-payment",
+      "group": "SP013",
+      "title": "Thanh toán — SP013",
+      "text": "Mua SP013 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP014-return",
+      "group": "SP014",
+      "title": "Đổi trả — SP014",
+      "text": "Khách có thể trả lại SP014 trong 10 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP014-warranty",
+      "group": "SP014",
+      "title": "Bảo hành — SP014",
+      "text": "SP014 được sửa chữa miễn phí do lỗi nhà sản xuất trong 12 tháng."
+    },
+    {
+      "id": "SP014-shipping",
+      "group": "SP014",
+      "title": "Vận chuyển — SP014",
+      "text": "Giao SP014 mất 5 ngày làm việc. Đơn từ 700000 đồng được miễn cước."
+    },
+    {
+      "id": "SP014-refund",
+      "group": "SP014",
+      "title": "Hoàn tiền — SP014",
+      "text": "Sau khi duyệt, tiền mua SP014 được chuyển lại trong 7 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP014-cancel",
+      "group": "SP014",
+      "title": "Hủy đơn — SP014",
+      "text": "Có thể ngừng đơn SP014 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP014-payment",
+      "group": "SP014",
+      "title": "Thanh toán — SP014",
+      "text": "Mua SP014 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP015-return",
+      "group": "SP015",
+      "title": "Đổi trả — SP015",
+      "text": "Khách có thể trả lại SP015 trong 7 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP015-warranty",
+      "group": "SP015",
+      "title": "Bảo hành — SP015",
+      "text": "SP015 được sửa chữa miễn phí do lỗi nhà sản xuất trong 24 tháng."
+    },
+    {
+      "id": "SP015-shipping",
+      "group": "SP015",
+      "title": "Vận chuyển — SP015",
+      "text": "Giao SP015 mất 3 ngày làm việc. Đơn từ 300000 đồng được miễn cước."
+    },
+    {
+      "id": "SP015-refund",
+      "group": "SP015",
+      "title": "Hoàn tiền — SP015",
+      "text": "Sau khi duyệt, tiền mua SP015 được chuyển lại trong 3 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP015-cancel",
+      "group": "SP015",
+      "title": "Hủy đơn — SP015",
+      "text": "Có thể ngừng đơn SP015 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP015-payment",
+      "group": "SP015",
+      "title": "Thanh toán — SP015",
+      "text": "Mua SP015 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP016-return",
+      "group": "SP016",
+      "title": "Đổi trả — SP016",
+      "text": "Khách có thể trả lại SP016 trong 7 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP016-warranty",
+      "group": "SP016",
+      "title": "Bảo hành — SP016",
+      "text": "SP016 được sửa chữa miễn phí do lỗi nhà sản xuất trong 12 tháng."
+    },
+    {
+      "id": "SP016-shipping",
+      "group": "SP016",
+      "title": "Vận chuyển — SP016",
+      "text": "Giao SP016 mất 3 ngày làm việc. Đơn từ 500000 đồng được miễn cước."
+    },
+    {
+      "id": "SP016-refund",
+      "group": "SP016",
+      "title": "Hoàn tiền — SP016",
+      "text": "Sau khi duyệt, tiền mua SP016 được chuyển lại trong 3 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP016-cancel",
+      "group": "SP016",
+      "title": "Hủy đơn — SP016",
+      "text": "Có thể ngừng đơn SP016 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP016-payment",
+      "group": "SP016",
+      "title": "Thanh toán — SP016",
+      "text": "Mua SP016 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP017-return",
+      "group": "SP017",
+      "title": "Đổi trả — SP017",
+      "text": "Khách có thể trả lại SP017 trong 7 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP017-warranty",
+      "group": "SP017",
+      "title": "Bảo hành — SP017",
+      "text": "SP017 được sửa chữa miễn phí do lỗi nhà sản xuất trong 24 tháng."
+    },
+    {
+      "id": "SP017-shipping",
+      "group": "SP017",
+      "title": "Vận chuyển — SP017",
+      "text": "Giao SP017 mất 5 ngày làm việc. Đơn từ 500000 đồng được miễn cước."
+    },
+    {
+      "id": "SP017-refund",
+      "group": "SP017",
+      "title": "Hoàn tiền — SP017",
+      "text": "Sau khi duyệt, tiền mua SP017 được chuyển lại trong 3 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP017-cancel",
+      "group": "SP017",
+      "title": "Hủy đơn — SP017",
+      "text": "Có thể ngừng đơn SP017 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP017-payment",
+      "group": "SP017",
+      "title": "Thanh toán — SP017",
+      "text": "Mua SP017 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP018-return",
+      "group": "SP018",
+      "title": "Đổi trả — SP018",
+      "text": "Khách có thể trả lại SP018 trong 14 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP018-warranty",
+      "group": "SP018",
+      "title": "Bảo hành — SP018",
+      "text": "SP018 được sửa chữa miễn phí do lỗi nhà sản xuất trong 12 tháng."
+    },
+    {
+      "id": "SP018-shipping",
+      "group": "SP018",
+      "title": "Vận chuyển — SP018",
+      "text": "Giao SP018 mất 3 ngày làm việc. Đơn từ 700000 đồng được miễn cước."
+    },
+    {
+      "id": "SP018-refund",
+      "group": "SP018",
+      "title": "Hoàn tiền — SP018",
+      "text": "Sau khi duyệt, tiền mua SP018 được chuyển lại trong 5 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP018-cancel",
+      "group": "SP018",
+      "title": "Hủy đơn — SP018",
+      "text": "Có thể ngừng đơn SP018 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP018-payment",
+      "group": "SP018",
+      "title": "Thanh toán — SP018",
+      "text": "Mua SP018 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP019-return",
+      "group": "SP019",
+      "title": "Đổi trả — SP019",
+      "text": "Khách có thể trả lại SP019 trong 7 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP019-warranty",
+      "group": "SP019",
+      "title": "Bảo hành — SP019",
+      "text": "SP019 được sửa chữa miễn phí do lỗi nhà sản xuất trong 12 tháng."
+    },
+    {
+      "id": "SP019-shipping",
+      "group": "SP019",
+      "title": "Vận chuyển — SP019",
+      "text": "Giao SP019 mất 2 ngày làm việc. Đơn từ 300000 đồng được miễn cước."
+    },
+    {
+      "id": "SP019-refund",
+      "group": "SP019",
+      "title": "Hoàn tiền — SP019",
+      "text": "Sau khi duyệt, tiền mua SP019 được chuyển lại trong 7 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP019-cancel",
+      "group": "SP019",
+      "title": "Hủy đơn — SP019",
+      "text": "Có thể ngừng đơn SP019 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP019-payment",
+      "group": "SP019",
+      "title": "Thanh toán — SP019",
+      "text": "Mua SP019 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP020-return",
+      "group": "SP020",
+      "title": "Đổi trả — SP020",
+      "text": "Khách có thể trả lại SP020 trong 14 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP020-warranty",
+      "group": "SP020",
+      "title": "Bảo hành — SP020",
+      "text": "SP020 được sửa chữa miễn phí do lỗi nhà sản xuất trong 24 tháng."
+    },
+    {
+      "id": "SP020-shipping",
+      "group": "SP020",
+      "title": "Vận chuyển — SP020",
+      "text": "Giao SP020 mất 3 ngày làm việc. Đơn từ 700000 đồng được miễn cước."
+    },
+    {
+      "id": "SP020-refund",
+      "group": "SP020",
+      "title": "Hoàn tiền — SP020",
+      "text": "Sau khi duyệt, tiền mua SP020 được chuyển lại trong 7 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP020-cancel",
+      "group": "SP020",
+      "title": "Hủy đơn — SP020",
+      "text": "Có thể ngừng đơn SP020 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP020-payment",
+      "group": "SP020",
+      "title": "Thanh toán — SP020",
+      "text": "Mua SP020 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP021-return",
+      "group": "SP021",
+      "title": "Đổi trả — SP021",
+      "text": "Khách có thể trả lại SP021 trong 10 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP021-warranty",
+      "group": "SP021",
+      "title": "Bảo hành — SP021",
+      "text": "SP021 được sửa chữa miễn phí do lỗi nhà sản xuất trong 24 tháng."
+    },
+    {
+      "id": "SP021-shipping",
+      "group": "SP021",
+      "title": "Vận chuyển — SP021",
+      "text": "Giao SP021 mất 3 ngày làm việc. Đơn từ 500000 đồng được miễn cước."
+    },
+    {
+      "id": "SP021-refund",
+      "group": "SP021",
+      "title": "Hoàn tiền — SP021",
+      "text": "Sau khi duyệt, tiền mua SP021 được chuyển lại trong 3 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP021-cancel",
+      "group": "SP021",
+      "title": "Hủy đơn — SP021",
+      "text": "Có thể ngừng đơn SP021 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP021-payment",
+      "group": "SP021",
+      "title": "Thanh toán — SP021",
+      "text": "Mua SP021 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP022-return",
+      "group": "SP022",
+      "title": "Đổi trả — SP022",
+      "text": "Khách có thể trả lại SP022 trong 7 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP022-warranty",
+      "group": "SP022",
+      "title": "Bảo hành — SP022",
+      "text": "SP022 được sửa chữa miễn phí do lỗi nhà sản xuất trong 24 tháng."
+    },
+    {
+      "id": "SP022-shipping",
+      "group": "SP022",
+      "title": "Vận chuyển — SP022",
+      "text": "Giao SP022 mất 3 ngày làm việc. Đơn từ 300000 đồng được miễn cước."
+    },
+    {
+      "id": "SP022-refund",
+      "group": "SP022",
+      "title": "Hoàn tiền — SP022",
+      "text": "Sau khi duyệt, tiền mua SP022 được chuyển lại trong 3 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP022-cancel",
+      "group": "SP022",
+      "title": "Hủy đơn — SP022",
+      "text": "Có thể ngừng đơn SP022 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP022-payment",
+      "group": "SP022",
+      "title": "Thanh toán — SP022",
+      "text": "Mua SP022 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP023-return",
+      "group": "SP023",
+      "title": "Đổi trả — SP023",
+      "text": "Khách có thể trả lại SP023 trong 7 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP023-warranty",
+      "group": "SP023",
+      "title": "Bảo hành — SP023",
+      "text": "SP023 được sửa chữa miễn phí do lỗi nhà sản xuất trong 6 tháng."
+    },
+    {
+      "id": "SP023-shipping",
+      "group": "SP023",
+      "title": "Vận chuyển — SP023",
+      "text": "Giao SP023 mất 5 ngày làm việc. Đơn từ 300000 đồng được miễn cước."
+    },
+    {
+      "id": "SP023-refund",
+      "group": "SP023",
+      "title": "Hoàn tiền — SP023",
+      "text": "Sau khi duyệt, tiền mua SP023 được chuyển lại trong 7 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP023-cancel",
+      "group": "SP023",
+      "title": "Hủy đơn — SP023",
+      "text": "Có thể ngừng đơn SP023 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP023-payment",
+      "group": "SP023",
+      "title": "Thanh toán — SP023",
+      "text": "Mua SP023 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP024-return",
+      "group": "SP024",
+      "title": "Đổi trả — SP024",
+      "text": "Khách có thể trả lại SP024 trong 10 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP024-warranty",
+      "group": "SP024",
+      "title": "Bảo hành — SP024",
+      "text": "SP024 được sửa chữa miễn phí do lỗi nhà sản xuất trong 24 tháng."
+    },
+    {
+      "id": "SP024-shipping",
+      "group": "SP024",
+      "title": "Vận chuyển — SP024",
+      "text": "Giao SP024 mất 2 ngày làm việc. Đơn từ 500000 đồng được miễn cước."
+    },
+    {
+      "id": "SP024-refund",
+      "group": "SP024",
+      "title": "Hoàn tiền — SP024",
+      "text": "Sau khi duyệt, tiền mua SP024 được chuyển lại trong 5 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP024-cancel",
+      "group": "SP024",
+      "title": "Hủy đơn — SP024",
+      "text": "Có thể ngừng đơn SP024 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP024-payment",
+      "group": "SP024",
+      "title": "Thanh toán — SP024",
+      "text": "Mua SP024 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP025-return",
+      "group": "SP025",
+      "title": "Đổi trả — SP025",
+      "text": "Khách có thể trả lại SP025 trong 14 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP025-warranty",
+      "group": "SP025",
+      "title": "Bảo hành — SP025",
+      "text": "SP025 được sửa chữa miễn phí do lỗi nhà sản xuất trong 12 tháng."
+    },
+    {
+      "id": "SP025-shipping",
+      "group": "SP025",
+      "title": "Vận chuyển — SP025",
+      "text": "Giao SP025 mất 5 ngày làm việc. Đơn từ 500000 đồng được miễn cước."
+    },
+    {
+      "id": "SP025-refund",
+      "group": "SP025",
+      "title": "Hoàn tiền — SP025",
+      "text": "Sau khi duyệt, tiền mua SP025 được chuyển lại trong 7 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP025-cancel",
+      "group": "SP025",
+      "title": "Hủy đơn — SP025",
+      "text": "Có thể ngừng đơn SP025 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP025-payment",
+      "group": "SP025",
+      "title": "Thanh toán — SP025",
+      "text": "Mua SP025 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP026-return",
+      "group": "SP026",
+      "title": "Đổi trả — SP026",
+      "text": "Khách có thể trả lại SP026 trong 7 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP026-warranty",
+      "group": "SP026",
+      "title": "Bảo hành — SP026",
+      "text": "SP026 được sửa chữa miễn phí do lỗi nhà sản xuất trong 24 tháng."
+    },
+    {
+      "id": "SP026-shipping",
+      "group": "SP026",
+      "title": "Vận chuyển — SP026",
+      "text": "Giao SP026 mất 5 ngày làm việc. Đơn từ 300000 đồng được miễn cước."
+    },
+    {
+      "id": "SP026-refund",
+      "group": "SP026",
+      "title": "Hoàn tiền — SP026",
+      "text": "Sau khi duyệt, tiền mua SP026 được chuyển lại trong 7 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP026-cancel",
+      "group": "SP026",
+      "title": "Hủy đơn — SP026",
+      "text": "Có thể ngừng đơn SP026 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP026-payment",
+      "group": "SP026",
+      "title": "Thanh toán — SP026",
+      "text": "Mua SP026 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP027-return",
+      "group": "SP027",
+      "title": "Đổi trả — SP027",
+      "text": "Khách có thể trả lại SP027 trong 14 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP027-warranty",
+      "group": "SP027",
+      "title": "Bảo hành — SP027",
+      "text": "SP027 được sửa chữa miễn phí do lỗi nhà sản xuất trong 12 tháng."
+    },
+    {
+      "id": "SP027-shipping",
+      "group": "SP027",
+      "title": "Vận chuyển — SP027",
+      "text": "Giao SP027 mất 5 ngày làm việc. Đơn từ 500000 đồng được miễn cước."
+    },
+    {
+      "id": "SP027-refund",
+      "group": "SP027",
+      "title": "Hoàn tiền — SP027",
+      "text": "Sau khi duyệt, tiền mua SP027 được chuyển lại trong 3 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP027-cancel",
+      "group": "SP027",
+      "title": "Hủy đơn — SP027",
+      "text": "Có thể ngừng đơn SP027 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP027-payment",
+      "group": "SP027",
+      "title": "Thanh toán — SP027",
+      "text": "Mua SP027 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP028-return",
+      "group": "SP028",
+      "title": "Đổi trả — SP028",
+      "text": "Khách có thể trả lại SP028 trong 10 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP028-warranty",
+      "group": "SP028",
+      "title": "Bảo hành — SP028",
+      "text": "SP028 được sửa chữa miễn phí do lỗi nhà sản xuất trong 12 tháng."
+    },
+    {
+      "id": "SP028-shipping",
+      "group": "SP028",
+      "title": "Vận chuyển — SP028",
+      "text": "Giao SP028 mất 2 ngày làm việc. Đơn từ 500000 đồng được miễn cước."
+    },
+    {
+      "id": "SP028-refund",
+      "group": "SP028",
+      "title": "Hoàn tiền — SP028",
+      "text": "Sau khi duyệt, tiền mua SP028 được chuyển lại trong 3 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP028-cancel",
+      "group": "SP028",
+      "title": "Hủy đơn — SP028",
+      "text": "Có thể ngừng đơn SP028 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP028-payment",
+      "group": "SP028",
+      "title": "Thanh toán — SP028",
+      "text": "Mua SP028 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP029-return",
+      "group": "SP029",
+      "title": "Đổi trả — SP029",
+      "text": "Khách có thể trả lại SP029 trong 14 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP029-warranty",
+      "group": "SP029",
+      "title": "Bảo hành — SP029",
+      "text": "SP029 được sửa chữa miễn phí do lỗi nhà sản xuất trong 24 tháng."
+    },
+    {
+      "id": "SP029-shipping",
+      "group": "SP029",
+      "title": "Vận chuyển — SP029",
+      "text": "Giao SP029 mất 3 ngày làm việc. Đơn từ 700000 đồng được miễn cước."
+    },
+    {
+      "id": "SP029-refund",
+      "group": "SP029",
+      "title": "Hoàn tiền — SP029",
+      "text": "Sau khi duyệt, tiền mua SP029 được chuyển lại trong 3 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP029-cancel",
+      "group": "SP029",
+      "title": "Hủy đơn — SP029",
+      "text": "Có thể ngừng đơn SP029 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP029-payment",
+      "group": "SP029",
+      "title": "Thanh toán — SP029",
+      "text": "Mua SP029 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    },
+    {
+      "id": "SP030-return",
+      "group": "SP030",
+      "title": "Đổi trả — SP030",
+      "text": "Khách có thể trả lại SP030 trong 14 ngày khi còn nguyên tem."
+    },
+    {
+      "id": "SP030-warranty",
+      "group": "SP030",
+      "title": "Bảo hành — SP030",
+      "text": "SP030 được sửa chữa miễn phí do lỗi nhà sản xuất trong 6 tháng."
+    },
+    {
+      "id": "SP030-shipping",
+      "group": "SP030",
+      "title": "Vận chuyển — SP030",
+      "text": "Giao SP030 mất 5 ngày làm việc. Đơn từ 500000 đồng được miễn cước."
+    },
+    {
+      "id": "SP030-refund",
+      "group": "SP030",
+      "title": "Hoàn tiền — SP030",
+      "text": "Sau khi duyệt, tiền mua SP030 được chuyển lại trong 7 ngày qua phương thức gốc."
+    },
+    {
+      "id": "SP030-cancel",
+      "group": "SP030",
+      "title": "Hủy đơn — SP030",
+      "text": "Có thể ngừng đơn SP030 trước lúc bàn giao cho bên vận chuyển. Đơn đã giao không thể hủy."
+    },
+    {
+      "id": "SP030-payment",
+      "group": "SP030",
+      "title": "Thanh toán — SP030",
+      "text": "Mua SP030 có thể trả bằng thẻ, chuyển khoản hoặc tiền mặt khi nhận hàng."
+    }
+  ],
+  "queries": [
+    {
+      "id": "q-SP001-return-0",
+      "group": "SP001",
+      "split": "test",
+      "text": "Tôi muốn gửi lại SP001, thời hạn là bao lâu?",
+      "qrels": {
+        "SP001-return": 1
+      }
+    },
+    {
+      "id": "q-SP001-return-1",
+      "group": "SP001",
+      "split": "test",
+      "text": "SP001 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP001-return": 1
+      }
+    },
+    {
+      "id": "q-SP001-warranty-0",
+      "group": "SP001",
+      "split": "test",
+      "text": "SP001 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP001-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP001-warranty-1",
+      "group": "SP001",
+      "split": "test",
+      "text": "Thời gian bảo hành của SP001 là bao nhiêu?",
+      "qrels": {
+        "SP001-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP001-shipping-0",
+      "group": "SP001",
+      "split": "test",
+      "text": "Đặt SP001 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP001-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP001-shipping-1",
+      "group": "SP001",
+      "split": "test",
+      "text": "Mua SP001 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP001-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP001-refund-0",
+      "group": "SP001",
+      "split": "test",
+      "text": "Sau khi duyệt trả SP001, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP001-refund": 1
+      }
+    },
+    {
+      "id": "q-SP001-refund-1",
+      "group": "SP001",
+      "split": "test",
+      "text": "Hoàn tiền cho SP001 mất mấy ngày?",
+      "qrels": {
+        "SP001-refund": 1
+      }
+    },
+    {
+      "id": "q-SP001-cancel-0",
+      "group": "SP001",
+      "split": "test",
+      "text": "Làm sao dừng đơn mua SP001 trước khi gửi đi?",
+      "qrels": {
+        "SP001-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP001-cancel-1",
+      "group": "SP001",
+      "split": "test",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP001 được không?",
+      "qrels": {
+        "SP001-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP001-payment-0",
+      "group": "SP001",
+      "split": "test",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP001 không?",
+      "qrels": {
+        "SP001-payment": 1
+      }
+    },
+    {
+      "id": "q-SP001-payment-1",
+      "group": "SP001",
+      "split": "test",
+      "text": "Những phương thức thanh toán khi mua SP001 là gì?",
+      "qrels": {
+        "SP001-payment": 1
+      }
+    },
+    {
+      "id": "q-SP002-return-0",
+      "group": "SP002",
+      "split": "train",
+      "text": "Tôi muốn gửi lại SP002, thời hạn là bao lâu?",
+      "qrels": {
+        "SP002-return": 1
+      }
+    },
+    {
+      "id": "q-SP002-return-1",
+      "group": "SP002",
+      "split": "train",
+      "text": "SP002 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP002-return": 1
+      }
+    },
+    {
+      "id": "q-SP002-warranty-0",
+      "group": "SP002",
+      "split": "train",
+      "text": "SP002 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP002-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP002-warranty-1",
+      "group": "SP002",
+      "split": "train",
+      "text": "Thời gian bảo hành của SP002 là bao nhiêu?",
+      "qrels": {
+        "SP002-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP002-shipping-0",
+      "group": "SP002",
+      "split": "train",
+      "text": "Đặt SP002 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP002-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP002-shipping-1",
+      "group": "SP002",
+      "split": "train",
+      "text": "Mua SP002 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP002-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP002-refund-0",
+      "group": "SP002",
+      "split": "train",
+      "text": "Sau khi duyệt trả SP002, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP002-refund": 1
+      }
+    },
+    {
+      "id": "q-SP002-refund-1",
+      "group": "SP002",
+      "split": "train",
+      "text": "Hoàn tiền cho SP002 mất mấy ngày?",
+      "qrels": {
+        "SP002-refund": 1
+      }
+    },
+    {
+      "id": "q-SP002-cancel-0",
+      "group": "SP002",
+      "split": "train",
+      "text": "Làm sao dừng đơn mua SP002 trước khi gửi đi?",
+      "qrels": {
+        "SP002-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP002-cancel-1",
+      "group": "SP002",
+      "split": "train",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP002 được không?",
+      "qrels": {
+        "SP002-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP002-payment-0",
+      "group": "SP002",
+      "split": "train",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP002 không?",
+      "qrels": {
+        "SP002-payment": 1
+      }
+    },
+    {
+      "id": "q-SP002-payment-1",
+      "group": "SP002",
+      "split": "train",
+      "text": "Những phương thức thanh toán khi mua SP002 là gì?",
+      "qrels": {
+        "SP002-payment": 1
+      }
+    },
+    {
+      "id": "q-SP003-return-0",
+      "group": "SP003",
+      "split": "dev",
+      "text": "Tôi muốn gửi lại SP003, thời hạn là bao lâu?",
+      "qrels": {
+        "SP003-return": 1
+      }
+    },
+    {
+      "id": "q-SP003-return-1",
+      "group": "SP003",
+      "split": "dev",
+      "text": "SP003 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP003-return": 1
+      }
+    },
+    {
+      "id": "q-SP003-warranty-0",
+      "group": "SP003",
+      "split": "dev",
+      "text": "SP003 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP003-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP003-warranty-1",
+      "group": "SP003",
+      "split": "dev",
+      "text": "Thời gian bảo hành của SP003 là bao nhiêu?",
+      "qrels": {
+        "SP003-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP003-shipping-0",
+      "group": "SP003",
+      "split": "dev",
+      "text": "Đặt SP003 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP003-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP003-shipping-1",
+      "group": "SP003",
+      "split": "dev",
+      "text": "Mua SP003 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP003-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP003-refund-0",
+      "group": "SP003",
+      "split": "dev",
+      "text": "Sau khi duyệt trả SP003, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP003-refund": 1
+      }
+    },
+    {
+      "id": "q-SP003-refund-1",
+      "group": "SP003",
+      "split": "dev",
+      "text": "Hoàn tiền cho SP003 mất mấy ngày?",
+      "qrels": {
+        "SP003-refund": 1
+      }
+    },
+    {
+      "id": "q-SP003-cancel-0",
+      "group": "SP003",
+      "split": "dev",
+      "text": "Làm sao dừng đơn mua SP003 trước khi gửi đi?",
+      "qrels": {
+        "SP003-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP003-cancel-1",
+      "group": "SP003",
+      "split": "dev",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP003 được không?",
+      "qrels": {
+        "SP003-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP003-payment-0",
+      "group": "SP003",
+      "split": "dev",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP003 không?",
+      "qrels": {
+        "SP003-payment": 1
+      }
+    },
+    {
+      "id": "q-SP003-payment-1",
+      "group": "SP003",
+      "split": "dev",
+      "text": "Những phương thức thanh toán khi mua SP003 là gì?",
+      "qrels": {
+        "SP003-payment": 1
+      }
+    },
+    {
+      "id": "q-SP004-return-0",
+      "group": "SP004",
+      "split": "test",
+      "text": "Tôi muốn gửi lại SP004, thời hạn là bao lâu?",
+      "qrels": {
+        "SP004-return": 1
+      }
+    },
+    {
+      "id": "q-SP004-return-1",
+      "group": "SP004",
+      "split": "test",
+      "text": "SP004 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP004-return": 1
+      }
+    },
+    {
+      "id": "q-SP004-warranty-0",
+      "group": "SP004",
+      "split": "test",
+      "text": "SP004 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP004-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP004-warranty-1",
+      "group": "SP004",
+      "split": "test",
+      "text": "Thời gian bảo hành của SP004 là bao nhiêu?",
+      "qrels": {
+        "SP004-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP004-shipping-0",
+      "group": "SP004",
+      "split": "test",
+      "text": "Đặt SP004 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP004-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP004-shipping-1",
+      "group": "SP004",
+      "split": "test",
+      "text": "Mua SP004 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP004-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP004-refund-0",
+      "group": "SP004",
+      "split": "test",
+      "text": "Sau khi duyệt trả SP004, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP004-refund": 1
+      }
+    },
+    {
+      "id": "q-SP004-refund-1",
+      "group": "SP004",
+      "split": "test",
+      "text": "Hoàn tiền cho SP004 mất mấy ngày?",
+      "qrels": {
+        "SP004-refund": 1
+      }
+    },
+    {
+      "id": "q-SP004-cancel-0",
+      "group": "SP004",
+      "split": "test",
+      "text": "Làm sao dừng đơn mua SP004 trước khi gửi đi?",
+      "qrels": {
+        "SP004-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP004-cancel-1",
+      "group": "SP004",
+      "split": "test",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP004 được không?",
+      "qrels": {
+        "SP004-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP004-payment-0",
+      "group": "SP004",
+      "split": "test",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP004 không?",
+      "qrels": {
+        "SP004-payment": 1
+      }
+    },
+    {
+      "id": "q-SP004-payment-1",
+      "group": "SP004",
+      "split": "test",
+      "text": "Những phương thức thanh toán khi mua SP004 là gì?",
+      "qrels": {
+        "SP004-payment": 1
+      }
+    },
+    {
+      "id": "q-SP005-return-0",
+      "group": "SP005",
+      "split": "dev",
+      "text": "Tôi muốn gửi lại SP005, thời hạn là bao lâu?",
+      "qrels": {
+        "SP005-return": 1
+      }
+    },
+    {
+      "id": "q-SP005-return-1",
+      "group": "SP005",
+      "split": "dev",
+      "text": "SP005 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP005-return": 1
+      }
+    },
+    {
+      "id": "q-SP005-warranty-0",
+      "group": "SP005",
+      "split": "dev",
+      "text": "SP005 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP005-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP005-warranty-1",
+      "group": "SP005",
+      "split": "dev",
+      "text": "Thời gian bảo hành của SP005 là bao nhiêu?",
+      "qrels": {
+        "SP005-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP005-shipping-0",
+      "group": "SP005",
+      "split": "dev",
+      "text": "Đặt SP005 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP005-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP005-shipping-1",
+      "group": "SP005",
+      "split": "dev",
+      "text": "Mua SP005 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP005-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP005-refund-0",
+      "group": "SP005",
+      "split": "dev",
+      "text": "Sau khi duyệt trả SP005, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP005-refund": 1
+      }
+    },
+    {
+      "id": "q-SP005-refund-1",
+      "group": "SP005",
+      "split": "dev",
+      "text": "Hoàn tiền cho SP005 mất mấy ngày?",
+      "qrels": {
+        "SP005-refund": 1
+      }
+    },
+    {
+      "id": "q-SP005-cancel-0",
+      "group": "SP005",
+      "split": "dev",
+      "text": "Làm sao dừng đơn mua SP005 trước khi gửi đi?",
+      "qrels": {
+        "SP005-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP005-cancel-1",
+      "group": "SP005",
+      "split": "dev",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP005 được không?",
+      "qrels": {
+        "SP005-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP005-payment-0",
+      "group": "SP005",
+      "split": "dev",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP005 không?",
+      "qrels": {
+        "SP005-payment": 1
+      }
+    },
+    {
+      "id": "q-SP005-payment-1",
+      "group": "SP005",
+      "split": "dev",
+      "text": "Những phương thức thanh toán khi mua SP005 là gì?",
+      "qrels": {
+        "SP005-payment": 1
+      }
+    },
+    {
+      "id": "q-SP006-return-0",
+      "group": "SP006",
+      "split": "train",
+      "text": "Tôi muốn gửi lại SP006, thời hạn là bao lâu?",
+      "qrels": {
+        "SP006-return": 1
+      }
+    },
+    {
+      "id": "q-SP006-return-1",
+      "group": "SP006",
+      "split": "train",
+      "text": "SP006 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP006-return": 1
+      }
+    },
+    {
+      "id": "q-SP006-warranty-0",
+      "group": "SP006",
+      "split": "train",
+      "text": "SP006 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP006-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP006-warranty-1",
+      "group": "SP006",
+      "split": "train",
+      "text": "Thời gian bảo hành của SP006 là bao nhiêu?",
+      "qrels": {
+        "SP006-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP006-shipping-0",
+      "group": "SP006",
+      "split": "train",
+      "text": "Đặt SP006 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP006-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP006-shipping-1",
+      "group": "SP006",
+      "split": "train",
+      "text": "Mua SP006 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP006-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP006-refund-0",
+      "group": "SP006",
+      "split": "train",
+      "text": "Sau khi duyệt trả SP006, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP006-refund": 1
+      }
+    },
+    {
+      "id": "q-SP006-refund-1",
+      "group": "SP006",
+      "split": "train",
+      "text": "Hoàn tiền cho SP006 mất mấy ngày?",
+      "qrels": {
+        "SP006-refund": 1
+      }
+    },
+    {
+      "id": "q-SP006-cancel-0",
+      "group": "SP006",
+      "split": "train",
+      "text": "Làm sao dừng đơn mua SP006 trước khi gửi đi?",
+      "qrels": {
+        "SP006-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP006-cancel-1",
+      "group": "SP006",
+      "split": "train",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP006 được không?",
+      "qrels": {
+        "SP006-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP006-payment-0",
+      "group": "SP006",
+      "split": "train",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP006 không?",
+      "qrels": {
+        "SP006-payment": 1
+      }
+    },
+    {
+      "id": "q-SP006-payment-1",
+      "group": "SP006",
+      "split": "train",
+      "text": "Những phương thức thanh toán khi mua SP006 là gì?",
+      "qrels": {
+        "SP006-payment": 1
+      }
+    },
+    {
+      "id": "q-SP007-return-0",
+      "group": "SP007",
+      "split": "train",
+      "text": "Tôi muốn gửi lại SP007, thời hạn là bao lâu?",
+      "qrels": {
+        "SP007-return": 1
+      }
+    },
+    {
+      "id": "q-SP007-return-1",
+      "group": "SP007",
+      "split": "train",
+      "text": "SP007 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP007-return": 1
+      }
+    },
+    {
+      "id": "q-SP007-warranty-0",
+      "group": "SP007",
+      "split": "train",
+      "text": "SP007 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP007-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP007-warranty-1",
+      "group": "SP007",
+      "split": "train",
+      "text": "Thời gian bảo hành của SP007 là bao nhiêu?",
+      "qrels": {
+        "SP007-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP007-shipping-0",
+      "group": "SP007",
+      "split": "train",
+      "text": "Đặt SP007 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP007-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP007-shipping-1",
+      "group": "SP007",
+      "split": "train",
+      "text": "Mua SP007 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP007-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP007-refund-0",
+      "group": "SP007",
+      "split": "train",
+      "text": "Sau khi duyệt trả SP007, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP007-refund": 1
+      }
+    },
+    {
+      "id": "q-SP007-refund-1",
+      "group": "SP007",
+      "split": "train",
+      "text": "Hoàn tiền cho SP007 mất mấy ngày?",
+      "qrels": {
+        "SP007-refund": 1
+      }
+    },
+    {
+      "id": "q-SP007-cancel-0",
+      "group": "SP007",
+      "split": "train",
+      "text": "Làm sao dừng đơn mua SP007 trước khi gửi đi?",
+      "qrels": {
+        "SP007-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP007-cancel-1",
+      "group": "SP007",
+      "split": "train",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP007 được không?",
+      "qrels": {
+        "SP007-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP007-payment-0",
+      "group": "SP007",
+      "split": "train",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP007 không?",
+      "qrels": {
+        "SP007-payment": 1
+      }
+    },
+    {
+      "id": "q-SP007-payment-1",
+      "group": "SP007",
+      "split": "train",
+      "text": "Những phương thức thanh toán khi mua SP007 là gì?",
+      "qrels": {
+        "SP007-payment": 1
+      }
+    },
+    {
+      "id": "q-SP008-return-0",
+      "group": "SP008",
+      "split": "test",
+      "text": "Tôi muốn gửi lại SP008, thời hạn là bao lâu?",
+      "qrels": {
+        "SP008-return": 1
+      }
+    },
+    {
+      "id": "q-SP008-return-1",
+      "group": "SP008",
+      "split": "test",
+      "text": "SP008 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP008-return": 1
+      }
+    },
+    {
+      "id": "q-SP008-warranty-0",
+      "group": "SP008",
+      "split": "test",
+      "text": "SP008 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP008-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP008-warranty-1",
+      "group": "SP008",
+      "split": "test",
+      "text": "Thời gian bảo hành của SP008 là bao nhiêu?",
+      "qrels": {
+        "SP008-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP008-shipping-0",
+      "group": "SP008",
+      "split": "test",
+      "text": "Đặt SP008 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP008-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP008-shipping-1",
+      "group": "SP008",
+      "split": "test",
+      "text": "Mua SP008 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP008-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP008-refund-0",
+      "group": "SP008",
+      "split": "test",
+      "text": "Sau khi duyệt trả SP008, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP008-refund": 1
+      }
+    },
+    {
+      "id": "q-SP008-refund-1",
+      "group": "SP008",
+      "split": "test",
+      "text": "Hoàn tiền cho SP008 mất mấy ngày?",
+      "qrels": {
+        "SP008-refund": 1
+      }
+    },
+    {
+      "id": "q-SP008-cancel-0",
+      "group": "SP008",
+      "split": "test",
+      "text": "Làm sao dừng đơn mua SP008 trước khi gửi đi?",
+      "qrels": {
+        "SP008-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP008-cancel-1",
+      "group": "SP008",
+      "split": "test",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP008 được không?",
+      "qrels": {
+        "SP008-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP008-payment-0",
+      "group": "SP008",
+      "split": "test",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP008 không?",
+      "qrels": {
+        "SP008-payment": 1
+      }
+    },
+    {
+      "id": "q-SP008-payment-1",
+      "group": "SP008",
+      "split": "test",
+      "text": "Những phương thức thanh toán khi mua SP008 là gì?",
+      "qrels": {
+        "SP008-payment": 1
+      }
+    },
+    {
+      "id": "q-SP009-return-0",
+      "group": "SP009",
+      "split": "test",
+      "text": "Tôi muốn gửi lại SP009, thời hạn là bao lâu?",
+      "qrels": {
+        "SP009-return": 1
+      }
+    },
+    {
+      "id": "q-SP009-return-1",
+      "group": "SP009",
+      "split": "test",
+      "text": "SP009 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP009-return": 1
+      }
+    },
+    {
+      "id": "q-SP009-warranty-0",
+      "group": "SP009",
+      "split": "test",
+      "text": "SP009 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP009-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP009-warranty-1",
+      "group": "SP009",
+      "split": "test",
+      "text": "Thời gian bảo hành của SP009 là bao nhiêu?",
+      "qrels": {
+        "SP009-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP009-shipping-0",
+      "group": "SP009",
+      "split": "test",
+      "text": "Đặt SP009 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP009-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP009-shipping-1",
+      "group": "SP009",
+      "split": "test",
+      "text": "Mua SP009 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP009-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP009-refund-0",
+      "group": "SP009",
+      "split": "test",
+      "text": "Sau khi duyệt trả SP009, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP009-refund": 1
+      }
+    },
+    {
+      "id": "q-SP009-refund-1",
+      "group": "SP009",
+      "split": "test",
+      "text": "Hoàn tiền cho SP009 mất mấy ngày?",
+      "qrels": {
+        "SP009-refund": 1
+      }
+    },
+    {
+      "id": "q-SP009-cancel-0",
+      "group": "SP009",
+      "split": "test",
+      "text": "Làm sao dừng đơn mua SP009 trước khi gửi đi?",
+      "qrels": {
+        "SP009-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP009-cancel-1",
+      "group": "SP009",
+      "split": "test",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP009 được không?",
+      "qrels": {
+        "SP009-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP009-payment-0",
+      "group": "SP009",
+      "split": "test",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP009 không?",
+      "qrels": {
+        "SP009-payment": 1
+      }
+    },
+    {
+      "id": "q-SP009-payment-1",
+      "group": "SP009",
+      "split": "test",
+      "text": "Những phương thức thanh toán khi mua SP009 là gì?",
+      "qrels": {
+        "SP009-payment": 1
+      }
+    },
+    {
+      "id": "q-SP010-return-0",
+      "group": "SP010",
+      "split": "train",
+      "text": "Tôi muốn gửi lại SP010, thời hạn là bao lâu?",
+      "qrels": {
+        "SP010-return": 1
+      }
+    },
+    {
+      "id": "q-SP010-return-1",
+      "group": "SP010",
+      "split": "train",
+      "text": "SP010 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP010-return": 1
+      }
+    },
+    {
+      "id": "q-SP010-warranty-0",
+      "group": "SP010",
+      "split": "train",
+      "text": "SP010 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP010-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP010-warranty-1",
+      "group": "SP010",
+      "split": "train",
+      "text": "Thời gian bảo hành của SP010 là bao nhiêu?",
+      "qrels": {
+        "SP010-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP010-shipping-0",
+      "group": "SP010",
+      "split": "train",
+      "text": "Đặt SP010 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP010-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP010-shipping-1",
+      "group": "SP010",
+      "split": "train",
+      "text": "Mua SP010 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP010-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP010-refund-0",
+      "group": "SP010",
+      "split": "train",
+      "text": "Sau khi duyệt trả SP010, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP010-refund": 1
+      }
+    },
+    {
+      "id": "q-SP010-refund-1",
+      "group": "SP010",
+      "split": "train",
+      "text": "Hoàn tiền cho SP010 mất mấy ngày?",
+      "qrels": {
+        "SP010-refund": 1
+      }
+    },
+    {
+      "id": "q-SP010-cancel-0",
+      "group": "SP010",
+      "split": "train",
+      "text": "Làm sao dừng đơn mua SP010 trước khi gửi đi?",
+      "qrels": {
+        "SP010-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP010-cancel-1",
+      "group": "SP010",
+      "split": "train",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP010 được không?",
+      "qrels": {
+        "SP010-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP010-payment-0",
+      "group": "SP010",
+      "split": "train",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP010 không?",
+      "qrels": {
+        "SP010-payment": 1
+      }
+    },
+    {
+      "id": "q-SP010-payment-1",
+      "group": "SP010",
+      "split": "train",
+      "text": "Những phương thức thanh toán khi mua SP010 là gì?",
+      "qrels": {
+        "SP010-payment": 1
+      }
+    },
+    {
+      "id": "q-SP011-return-0",
+      "group": "SP011",
+      "split": "train",
+      "text": "Tôi muốn gửi lại SP011, thời hạn là bao lâu?",
+      "qrels": {
+        "SP011-return": 1
+      }
+    },
+    {
+      "id": "q-SP011-return-1",
+      "group": "SP011",
+      "split": "train",
+      "text": "SP011 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP011-return": 1
+      }
+    },
+    {
+      "id": "q-SP011-warranty-0",
+      "group": "SP011",
+      "split": "train",
+      "text": "SP011 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP011-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP011-warranty-1",
+      "group": "SP011",
+      "split": "train",
+      "text": "Thời gian bảo hành của SP011 là bao nhiêu?",
+      "qrels": {
+        "SP011-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP011-shipping-0",
+      "group": "SP011",
+      "split": "train",
+      "text": "Đặt SP011 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP011-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP011-shipping-1",
+      "group": "SP011",
+      "split": "train",
+      "text": "Mua SP011 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP011-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP011-refund-0",
+      "group": "SP011",
+      "split": "train",
+      "text": "Sau khi duyệt trả SP011, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP011-refund": 1
+      }
+    },
+    {
+      "id": "q-SP011-refund-1",
+      "group": "SP011",
+      "split": "train",
+      "text": "Hoàn tiền cho SP011 mất mấy ngày?",
+      "qrels": {
+        "SP011-refund": 1
+      }
+    },
+    {
+      "id": "q-SP011-cancel-0",
+      "group": "SP011",
+      "split": "train",
+      "text": "Làm sao dừng đơn mua SP011 trước khi gửi đi?",
+      "qrels": {
+        "SP011-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP011-cancel-1",
+      "group": "SP011",
+      "split": "train",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP011 được không?",
+      "qrels": {
+        "SP011-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP011-payment-0",
+      "group": "SP011",
+      "split": "train",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP011 không?",
+      "qrels": {
+        "SP011-payment": 1
+      }
+    },
+    {
+      "id": "q-SP011-payment-1",
+      "group": "SP011",
+      "split": "train",
+      "text": "Những phương thức thanh toán khi mua SP011 là gì?",
+      "qrels": {
+        "SP011-payment": 1
+      }
+    },
+    {
+      "id": "q-SP012-return-0",
+      "group": "SP012",
+      "split": "train",
+      "text": "Tôi muốn gửi lại SP012, thời hạn là bao lâu?",
+      "qrels": {
+        "SP012-return": 1
+      }
+    },
+    {
+      "id": "q-SP012-return-1",
+      "group": "SP012",
+      "split": "train",
+      "text": "SP012 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP012-return": 1
+      }
+    },
+    {
+      "id": "q-SP012-warranty-0",
+      "group": "SP012",
+      "split": "train",
+      "text": "SP012 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP012-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP012-warranty-1",
+      "group": "SP012",
+      "split": "train",
+      "text": "Thời gian bảo hành của SP012 là bao nhiêu?",
+      "qrels": {
+        "SP012-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP012-shipping-0",
+      "group": "SP012",
+      "split": "train",
+      "text": "Đặt SP012 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP012-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP012-shipping-1",
+      "group": "SP012",
+      "split": "train",
+      "text": "Mua SP012 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP012-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP012-refund-0",
+      "group": "SP012",
+      "split": "train",
+      "text": "Sau khi duyệt trả SP012, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP012-refund": 1
+      }
+    },
+    {
+      "id": "q-SP012-refund-1",
+      "group": "SP012",
+      "split": "train",
+      "text": "Hoàn tiền cho SP012 mất mấy ngày?",
+      "qrels": {
+        "SP012-refund": 1
+      }
+    },
+    {
+      "id": "q-SP012-cancel-0",
+      "group": "SP012",
+      "split": "train",
+      "text": "Làm sao dừng đơn mua SP012 trước khi gửi đi?",
+      "qrels": {
+        "SP012-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP012-cancel-1",
+      "group": "SP012",
+      "split": "train",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP012 được không?",
+      "qrels": {
+        "SP012-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP012-payment-0",
+      "group": "SP012",
+      "split": "train",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP012 không?",
+      "qrels": {
+        "SP012-payment": 1
+      }
+    },
+    {
+      "id": "q-SP012-payment-1",
+      "group": "SP012",
+      "split": "train",
+      "text": "Những phương thức thanh toán khi mua SP012 là gì?",
+      "qrels": {
+        "SP012-payment": 1
+      }
+    },
+    {
+      "id": "q-SP013-return-0",
+      "group": "SP013",
+      "split": "train",
+      "text": "Tôi muốn gửi lại SP013, thời hạn là bao lâu?",
+      "qrels": {
+        "SP013-return": 1
+      }
+    },
+    {
+      "id": "q-SP013-return-1",
+      "group": "SP013",
+      "split": "train",
+      "text": "SP013 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP013-return": 1
+      }
+    },
+    {
+      "id": "q-SP013-warranty-0",
+      "group": "SP013",
+      "split": "train",
+      "text": "SP013 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP013-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP013-warranty-1",
+      "group": "SP013",
+      "split": "train",
+      "text": "Thời gian bảo hành của SP013 là bao nhiêu?",
+      "qrels": {
+        "SP013-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP013-shipping-0",
+      "group": "SP013",
+      "split": "train",
+      "text": "Đặt SP013 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP013-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP013-shipping-1",
+      "group": "SP013",
+      "split": "train",
+      "text": "Mua SP013 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP013-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP013-refund-0",
+      "group": "SP013",
+      "split": "train",
+      "text": "Sau khi duyệt trả SP013, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP013-refund": 1
+      }
+    },
+    {
+      "id": "q-SP013-refund-1",
+      "group": "SP013",
+      "split": "train",
+      "text": "Hoàn tiền cho SP013 mất mấy ngày?",
+      "qrels": {
+        "SP013-refund": 1
+      }
+    },
+    {
+      "id": "q-SP013-cancel-0",
+      "group": "SP013",
+      "split": "train",
+      "text": "Làm sao dừng đơn mua SP013 trước khi gửi đi?",
+      "qrels": {
+        "SP013-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP013-cancel-1",
+      "group": "SP013",
+      "split": "train",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP013 được không?",
+      "qrels": {
+        "SP013-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP013-payment-0",
+      "group": "SP013",
+      "split": "train",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP013 không?",
+      "qrels": {
+        "SP013-payment": 1
+      }
+    },
+    {
+      "id": "q-SP013-payment-1",
+      "group": "SP013",
+      "split": "train",
+      "text": "Những phương thức thanh toán khi mua SP013 là gì?",
+      "qrels": {
+        "SP013-payment": 1
+      }
+    },
+    {
+      "id": "q-SP014-return-0",
+      "group": "SP014",
+      "split": "train",
+      "text": "Tôi muốn gửi lại SP014, thời hạn là bao lâu?",
+      "qrels": {
+        "SP014-return": 1
+      }
+    },
+    {
+      "id": "q-SP014-return-1",
+      "group": "SP014",
+      "split": "train",
+      "text": "SP014 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP014-return": 1
+      }
+    },
+    {
+      "id": "q-SP014-warranty-0",
+      "group": "SP014",
+      "split": "train",
+      "text": "SP014 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP014-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP014-warranty-1",
+      "group": "SP014",
+      "split": "train",
+      "text": "Thời gian bảo hành của SP014 là bao nhiêu?",
+      "qrels": {
+        "SP014-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP014-shipping-0",
+      "group": "SP014",
+      "split": "train",
+      "text": "Đặt SP014 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP014-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP014-shipping-1",
+      "group": "SP014",
+      "split": "train",
+      "text": "Mua SP014 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP014-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP014-refund-0",
+      "group": "SP014",
+      "split": "train",
+      "text": "Sau khi duyệt trả SP014, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP014-refund": 1
+      }
+    },
+    {
+      "id": "q-SP014-refund-1",
+      "group": "SP014",
+      "split": "train",
+      "text": "Hoàn tiền cho SP014 mất mấy ngày?",
+      "qrels": {
+        "SP014-refund": 1
+      }
+    },
+    {
+      "id": "q-SP014-cancel-0",
+      "group": "SP014",
+      "split": "train",
+      "text": "Làm sao dừng đơn mua SP014 trước khi gửi đi?",
+      "qrels": {
+        "SP014-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP014-cancel-1",
+      "group": "SP014",
+      "split": "train",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP014 được không?",
+      "qrels": {
+        "SP014-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP014-payment-0",
+      "group": "SP014",
+      "split": "train",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP014 không?",
+      "qrels": {
+        "SP014-payment": 1
+      }
+    },
+    {
+      "id": "q-SP014-payment-1",
+      "group": "SP014",
+      "split": "train",
+      "text": "Những phương thức thanh toán khi mua SP014 là gì?",
+      "qrels": {
+        "SP014-payment": 1
+      }
+    },
+    {
+      "id": "q-SP015-return-0",
+      "group": "SP015",
+      "split": "train",
+      "text": "Tôi muốn gửi lại SP015, thời hạn là bao lâu?",
+      "qrels": {
+        "SP015-return": 1
+      }
+    },
+    {
+      "id": "q-SP015-return-1",
+      "group": "SP015",
+      "split": "train",
+      "text": "SP015 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP015-return": 1
+      }
+    },
+    {
+      "id": "q-SP015-warranty-0",
+      "group": "SP015",
+      "split": "train",
+      "text": "SP015 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP015-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP015-warranty-1",
+      "group": "SP015",
+      "split": "train",
+      "text": "Thời gian bảo hành của SP015 là bao nhiêu?",
+      "qrels": {
+        "SP015-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP015-shipping-0",
+      "group": "SP015",
+      "split": "train",
+      "text": "Đặt SP015 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP015-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP015-shipping-1",
+      "group": "SP015",
+      "split": "train",
+      "text": "Mua SP015 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP015-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP015-refund-0",
+      "group": "SP015",
+      "split": "train",
+      "text": "Sau khi duyệt trả SP015, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP015-refund": 1
+      }
+    },
+    {
+      "id": "q-SP015-refund-1",
+      "group": "SP015",
+      "split": "train",
+      "text": "Hoàn tiền cho SP015 mất mấy ngày?",
+      "qrels": {
+        "SP015-refund": 1
+      }
+    },
+    {
+      "id": "q-SP015-cancel-0",
+      "group": "SP015",
+      "split": "train",
+      "text": "Làm sao dừng đơn mua SP015 trước khi gửi đi?",
+      "qrels": {
+        "SP015-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP015-cancel-1",
+      "group": "SP015",
+      "split": "train",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP015 được không?",
+      "qrels": {
+        "SP015-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP015-payment-0",
+      "group": "SP015",
+      "split": "train",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP015 không?",
+      "qrels": {
+        "SP015-payment": 1
+      }
+    },
+    {
+      "id": "q-SP015-payment-1",
+      "group": "SP015",
+      "split": "train",
+      "text": "Những phương thức thanh toán khi mua SP015 là gì?",
+      "qrels": {
+        "SP015-payment": 1
+      }
+    },
+    {
+      "id": "q-SP016-return-0",
+      "group": "SP016",
+      "split": "train",
+      "text": "Tôi muốn gửi lại SP016, thời hạn là bao lâu?",
+      "qrels": {
+        "SP016-return": 1
+      }
+    },
+    {
+      "id": "q-SP016-return-1",
+      "group": "SP016",
+      "split": "train",
+      "text": "SP016 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP016-return": 1
+      }
+    },
+    {
+      "id": "q-SP016-warranty-0",
+      "group": "SP016",
+      "split": "train",
+      "text": "SP016 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP016-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP016-warranty-1",
+      "group": "SP016",
+      "split": "train",
+      "text": "Thời gian bảo hành của SP016 là bao nhiêu?",
+      "qrels": {
+        "SP016-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP016-shipping-0",
+      "group": "SP016",
+      "split": "train",
+      "text": "Đặt SP016 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP016-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP016-shipping-1",
+      "group": "SP016",
+      "split": "train",
+      "text": "Mua SP016 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP016-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP016-refund-0",
+      "group": "SP016",
+      "split": "train",
+      "text": "Sau khi duyệt trả SP016, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP016-refund": 1
+      }
+    },
+    {
+      "id": "q-SP016-refund-1",
+      "group": "SP016",
+      "split": "train",
+      "text": "Hoàn tiền cho SP016 mất mấy ngày?",
+      "qrels": {
+        "SP016-refund": 1
+      }
+    },
+    {
+      "id": "q-SP016-cancel-0",
+      "group": "SP016",
+      "split": "train",
+      "text": "Làm sao dừng đơn mua SP016 trước khi gửi đi?",
+      "qrels": {
+        "SP016-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP016-cancel-1",
+      "group": "SP016",
+      "split": "train",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP016 được không?",
+      "qrels": {
+        "SP016-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP016-payment-0",
+      "group": "SP016",
+      "split": "train",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP016 không?",
+      "qrels": {
+        "SP016-payment": 1
+      }
+    },
+    {
+      "id": "q-SP016-payment-1",
+      "group": "SP016",
+      "split": "train",
+      "text": "Những phương thức thanh toán khi mua SP016 là gì?",
+      "qrels": {
+        "SP016-payment": 1
+      }
+    },
+    {
+      "id": "q-SP017-return-0",
+      "group": "SP017",
+      "split": "train",
+      "text": "Tôi muốn gửi lại SP017, thời hạn là bao lâu?",
+      "qrels": {
+        "SP017-return": 1
+      }
+    },
+    {
+      "id": "q-SP017-return-1",
+      "group": "SP017",
+      "split": "train",
+      "text": "SP017 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP017-return": 1
+      }
+    },
+    {
+      "id": "q-SP017-warranty-0",
+      "group": "SP017",
+      "split": "train",
+      "text": "SP017 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP017-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP017-warranty-1",
+      "group": "SP017",
+      "split": "train",
+      "text": "Thời gian bảo hành của SP017 là bao nhiêu?",
+      "qrels": {
+        "SP017-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP017-shipping-0",
+      "group": "SP017",
+      "split": "train",
+      "text": "Đặt SP017 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP017-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP017-shipping-1",
+      "group": "SP017",
+      "split": "train",
+      "text": "Mua SP017 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP017-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP017-refund-0",
+      "group": "SP017",
+      "split": "train",
+      "text": "Sau khi duyệt trả SP017, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP017-refund": 1
+      }
+    },
+    {
+      "id": "q-SP017-refund-1",
+      "group": "SP017",
+      "split": "train",
+      "text": "Hoàn tiền cho SP017 mất mấy ngày?",
+      "qrels": {
+        "SP017-refund": 1
+      }
+    },
+    {
+      "id": "q-SP017-cancel-0",
+      "group": "SP017",
+      "split": "train",
+      "text": "Làm sao dừng đơn mua SP017 trước khi gửi đi?",
+      "qrels": {
+        "SP017-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP017-cancel-1",
+      "group": "SP017",
+      "split": "train",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP017 được không?",
+      "qrels": {
+        "SP017-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP017-payment-0",
+      "group": "SP017",
+      "split": "train",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP017 không?",
+      "qrels": {
+        "SP017-payment": 1
+      }
+    },
+    {
+      "id": "q-SP017-payment-1",
+      "group": "SP017",
+      "split": "train",
+      "text": "Những phương thức thanh toán khi mua SP017 là gì?",
+      "qrels": {
+        "SP017-payment": 1
+      }
+    },
+    {
+      "id": "q-SP018-return-0",
+      "group": "SP018",
+      "split": "dev",
+      "text": "Tôi muốn gửi lại SP018, thời hạn là bao lâu?",
+      "qrels": {
+        "SP018-return": 1
+      }
+    },
+    {
+      "id": "q-SP018-return-1",
+      "group": "SP018",
+      "split": "dev",
+      "text": "SP018 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP018-return": 1
+      }
+    },
+    {
+      "id": "q-SP018-warranty-0",
+      "group": "SP018",
+      "split": "dev",
+      "text": "SP018 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP018-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP018-warranty-1",
+      "group": "SP018",
+      "split": "dev",
+      "text": "Thời gian bảo hành của SP018 là bao nhiêu?",
+      "qrels": {
+        "SP018-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP018-shipping-0",
+      "group": "SP018",
+      "split": "dev",
+      "text": "Đặt SP018 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP018-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP018-shipping-1",
+      "group": "SP018",
+      "split": "dev",
+      "text": "Mua SP018 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP018-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP018-refund-0",
+      "group": "SP018",
+      "split": "dev",
+      "text": "Sau khi duyệt trả SP018, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP018-refund": 1
+      }
+    },
+    {
+      "id": "q-SP018-refund-1",
+      "group": "SP018",
+      "split": "dev",
+      "text": "Hoàn tiền cho SP018 mất mấy ngày?",
+      "qrels": {
+        "SP018-refund": 1
+      }
+    },
+    {
+      "id": "q-SP018-cancel-0",
+      "group": "SP018",
+      "split": "dev",
+      "text": "Làm sao dừng đơn mua SP018 trước khi gửi đi?",
+      "qrels": {
+        "SP018-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP018-cancel-1",
+      "group": "SP018",
+      "split": "dev",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP018 được không?",
+      "qrels": {
+        "SP018-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP018-payment-0",
+      "group": "SP018",
+      "split": "dev",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP018 không?",
+      "qrels": {
+        "SP018-payment": 1
+      }
+    },
+    {
+      "id": "q-SP018-payment-1",
+      "group": "SP018",
+      "split": "dev",
+      "text": "Những phương thức thanh toán khi mua SP018 là gì?",
+      "qrels": {
+        "SP018-payment": 1
+      }
+    },
+    {
+      "id": "q-SP019-return-0",
+      "group": "SP019",
+      "split": "dev",
+      "text": "Tôi muốn gửi lại SP019, thời hạn là bao lâu?",
+      "qrels": {
+        "SP019-return": 1
+      }
+    },
+    {
+      "id": "q-SP019-return-1",
+      "group": "SP019",
+      "split": "dev",
+      "text": "SP019 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP019-return": 1
+      }
+    },
+    {
+      "id": "q-SP019-warranty-0",
+      "group": "SP019",
+      "split": "dev",
+      "text": "SP019 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP019-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP019-warranty-1",
+      "group": "SP019",
+      "split": "dev",
+      "text": "Thời gian bảo hành của SP019 là bao nhiêu?",
+      "qrels": {
+        "SP019-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP019-shipping-0",
+      "group": "SP019",
+      "split": "dev",
+      "text": "Đặt SP019 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP019-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP019-shipping-1",
+      "group": "SP019",
+      "split": "dev",
+      "text": "Mua SP019 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP019-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP019-refund-0",
+      "group": "SP019",
+      "split": "dev",
+      "text": "Sau khi duyệt trả SP019, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP019-refund": 1
+      }
+    },
+    {
+      "id": "q-SP019-refund-1",
+      "group": "SP019",
+      "split": "dev",
+      "text": "Hoàn tiền cho SP019 mất mấy ngày?",
+      "qrels": {
+        "SP019-refund": 1
+      }
+    },
+    {
+      "id": "q-SP019-cancel-0",
+      "group": "SP019",
+      "split": "dev",
+      "text": "Làm sao dừng đơn mua SP019 trước khi gửi đi?",
+      "qrels": {
+        "SP019-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP019-cancel-1",
+      "group": "SP019",
+      "split": "dev",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP019 được không?",
+      "qrels": {
+        "SP019-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP019-payment-0",
+      "group": "SP019",
+      "split": "dev",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP019 không?",
+      "qrels": {
+        "SP019-payment": 1
+      }
+    },
+    {
+      "id": "q-SP019-payment-1",
+      "group": "SP019",
+      "split": "dev",
+      "text": "Những phương thức thanh toán khi mua SP019 là gì?",
+      "qrels": {
+        "SP019-payment": 1
+      }
+    },
+    {
+      "id": "q-SP020-return-0",
+      "group": "SP020",
+      "split": "train",
+      "text": "Tôi muốn gửi lại SP020, thời hạn là bao lâu?",
+      "qrels": {
+        "SP020-return": 1
+      }
+    },
+    {
+      "id": "q-SP020-return-1",
+      "group": "SP020",
+      "split": "train",
+      "text": "SP020 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP020-return": 1
+      }
+    },
+    {
+      "id": "q-SP020-warranty-0",
+      "group": "SP020",
+      "split": "train",
+      "text": "SP020 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP020-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP020-warranty-1",
+      "group": "SP020",
+      "split": "train",
+      "text": "Thời gian bảo hành của SP020 là bao nhiêu?",
+      "qrels": {
+        "SP020-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP020-shipping-0",
+      "group": "SP020",
+      "split": "train",
+      "text": "Đặt SP020 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP020-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP020-shipping-1",
+      "group": "SP020",
+      "split": "train",
+      "text": "Mua SP020 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP020-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP020-refund-0",
+      "group": "SP020",
+      "split": "train",
+      "text": "Sau khi duyệt trả SP020, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP020-refund": 1
+      }
+    },
+    {
+      "id": "q-SP020-refund-1",
+      "group": "SP020",
+      "split": "train",
+      "text": "Hoàn tiền cho SP020 mất mấy ngày?",
+      "qrels": {
+        "SP020-refund": 1
+      }
+    },
+    {
+      "id": "q-SP020-cancel-0",
+      "group": "SP020",
+      "split": "train",
+      "text": "Làm sao dừng đơn mua SP020 trước khi gửi đi?",
+      "qrels": {
+        "SP020-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP020-cancel-1",
+      "group": "SP020",
+      "split": "train",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP020 được không?",
+      "qrels": {
+        "SP020-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP020-payment-0",
+      "group": "SP020",
+      "split": "train",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP020 không?",
+      "qrels": {
+        "SP020-payment": 1
+      }
+    },
+    {
+      "id": "q-SP020-payment-1",
+      "group": "SP020",
+      "split": "train",
+      "text": "Những phương thức thanh toán khi mua SP020 là gì?",
+      "qrels": {
+        "SP020-payment": 1
+      }
+    },
+    {
+      "id": "q-SP021-return-0",
+      "group": "SP021",
+      "split": "test",
+      "text": "Tôi muốn gửi lại SP021, thời hạn là bao lâu?",
+      "qrels": {
+        "SP021-return": 1
+      }
+    },
+    {
+      "id": "q-SP021-return-1",
+      "group": "SP021",
+      "split": "test",
+      "text": "SP021 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP021-return": 1
+      }
+    },
+    {
+      "id": "q-SP021-warranty-0",
+      "group": "SP021",
+      "split": "test",
+      "text": "SP021 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP021-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP021-warranty-1",
+      "group": "SP021",
+      "split": "test",
+      "text": "Thời gian bảo hành của SP021 là bao nhiêu?",
+      "qrels": {
+        "SP021-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP021-shipping-0",
+      "group": "SP021",
+      "split": "test",
+      "text": "Đặt SP021 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP021-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP021-shipping-1",
+      "group": "SP021",
+      "split": "test",
+      "text": "Mua SP021 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP021-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP021-refund-0",
+      "group": "SP021",
+      "split": "test",
+      "text": "Sau khi duyệt trả SP021, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP021-refund": 1
+      }
+    },
+    {
+      "id": "q-SP021-refund-1",
+      "group": "SP021",
+      "split": "test",
+      "text": "Hoàn tiền cho SP021 mất mấy ngày?",
+      "qrels": {
+        "SP021-refund": 1
+      }
+    },
+    {
+      "id": "q-SP021-cancel-0",
+      "group": "SP021",
+      "split": "test",
+      "text": "Làm sao dừng đơn mua SP021 trước khi gửi đi?",
+      "qrels": {
+        "SP021-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP021-cancel-1",
+      "group": "SP021",
+      "split": "test",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP021 được không?",
+      "qrels": {
+        "SP021-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP021-payment-0",
+      "group": "SP021",
+      "split": "test",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP021 không?",
+      "qrels": {
+        "SP021-payment": 1
+      }
+    },
+    {
+      "id": "q-SP021-payment-1",
+      "group": "SP021",
+      "split": "test",
+      "text": "Những phương thức thanh toán khi mua SP021 là gì?",
+      "qrels": {
+        "SP021-payment": 1
+      }
+    },
+    {
+      "id": "q-SP022-return-0",
+      "group": "SP022",
+      "split": "train",
+      "text": "Tôi muốn gửi lại SP022, thời hạn là bao lâu?",
+      "qrels": {
+        "SP022-return": 1
+      }
+    },
+    {
+      "id": "q-SP022-return-1",
+      "group": "SP022",
+      "split": "train",
+      "text": "SP022 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP022-return": 1
+      }
+    },
+    {
+      "id": "q-SP022-warranty-0",
+      "group": "SP022",
+      "split": "train",
+      "text": "SP022 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP022-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP022-warranty-1",
+      "group": "SP022",
+      "split": "train",
+      "text": "Thời gian bảo hành của SP022 là bao nhiêu?",
+      "qrels": {
+        "SP022-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP022-shipping-0",
+      "group": "SP022",
+      "split": "train",
+      "text": "Đặt SP022 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP022-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP022-shipping-1",
+      "group": "SP022",
+      "split": "train",
+      "text": "Mua SP022 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP022-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP022-refund-0",
+      "group": "SP022",
+      "split": "train",
+      "text": "Sau khi duyệt trả SP022, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP022-refund": 1
+      }
+    },
+    {
+      "id": "q-SP022-refund-1",
+      "group": "SP022",
+      "split": "train",
+      "text": "Hoàn tiền cho SP022 mất mấy ngày?",
+      "qrels": {
+        "SP022-refund": 1
+      }
+    },
+    {
+      "id": "q-SP022-cancel-0",
+      "group": "SP022",
+      "split": "train",
+      "text": "Làm sao dừng đơn mua SP022 trước khi gửi đi?",
+      "qrels": {
+        "SP022-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP022-cancel-1",
+      "group": "SP022",
+      "split": "train",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP022 được không?",
+      "qrels": {
+        "SP022-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP022-payment-0",
+      "group": "SP022",
+      "split": "train",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP022 không?",
+      "qrels": {
+        "SP022-payment": 1
+      }
+    },
+    {
+      "id": "q-SP022-payment-1",
+      "group": "SP022",
+      "split": "train",
+      "text": "Những phương thức thanh toán khi mua SP022 là gì?",
+      "qrels": {
+        "SP022-payment": 1
+      }
+    },
+    {
+      "id": "q-SP023-return-0",
+      "group": "SP023",
+      "split": "train",
+      "text": "Tôi muốn gửi lại SP023, thời hạn là bao lâu?",
+      "qrels": {
+        "SP023-return": 1
+      }
+    },
+    {
+      "id": "q-SP023-return-1",
+      "group": "SP023",
+      "split": "train",
+      "text": "SP023 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP023-return": 1
+      }
+    },
+    {
+      "id": "q-SP023-warranty-0",
+      "group": "SP023",
+      "split": "train",
+      "text": "SP023 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP023-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP023-warranty-1",
+      "group": "SP023",
+      "split": "train",
+      "text": "Thời gian bảo hành của SP023 là bao nhiêu?",
+      "qrels": {
+        "SP023-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP023-shipping-0",
+      "group": "SP023",
+      "split": "train",
+      "text": "Đặt SP023 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP023-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP023-shipping-1",
+      "group": "SP023",
+      "split": "train",
+      "text": "Mua SP023 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP023-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP023-refund-0",
+      "group": "SP023",
+      "split": "train",
+      "text": "Sau khi duyệt trả SP023, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP023-refund": 1
+      }
+    },
+    {
+      "id": "q-SP023-refund-1",
+      "group": "SP023",
+      "split": "train",
+      "text": "Hoàn tiền cho SP023 mất mấy ngày?",
+      "qrels": {
+        "SP023-refund": 1
+      }
+    },
+    {
+      "id": "q-SP023-cancel-0",
+      "group": "SP023",
+      "split": "train",
+      "text": "Làm sao dừng đơn mua SP023 trước khi gửi đi?",
+      "qrels": {
+        "SP023-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP023-cancel-1",
+      "group": "SP023",
+      "split": "train",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP023 được không?",
+      "qrels": {
+        "SP023-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP023-payment-0",
+      "group": "SP023",
+      "split": "train",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP023 không?",
+      "qrels": {
+        "SP023-payment": 1
+      }
+    },
+    {
+      "id": "q-SP023-payment-1",
+      "group": "SP023",
+      "split": "train",
+      "text": "Những phương thức thanh toán khi mua SP023 là gì?",
+      "qrels": {
+        "SP023-payment": 1
+      }
+    },
+    {
+      "id": "q-SP024-return-0",
+      "group": "SP024",
+      "split": "test",
+      "text": "Tôi muốn gửi lại SP024, thời hạn là bao lâu?",
+      "qrels": {
+        "SP024-return": 1
+      }
+    },
+    {
+      "id": "q-SP024-return-1",
+      "group": "SP024",
+      "split": "test",
+      "text": "SP024 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP024-return": 1
+      }
+    },
+    {
+      "id": "q-SP024-warranty-0",
+      "group": "SP024",
+      "split": "test",
+      "text": "SP024 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP024-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP024-warranty-1",
+      "group": "SP024",
+      "split": "test",
+      "text": "Thời gian bảo hành của SP024 là bao nhiêu?",
+      "qrels": {
+        "SP024-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP024-shipping-0",
+      "group": "SP024",
+      "split": "test",
+      "text": "Đặt SP024 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP024-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP024-shipping-1",
+      "group": "SP024",
+      "split": "test",
+      "text": "Mua SP024 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP024-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP024-refund-0",
+      "group": "SP024",
+      "split": "test",
+      "text": "Sau khi duyệt trả SP024, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP024-refund": 1
+      }
+    },
+    {
+      "id": "q-SP024-refund-1",
+      "group": "SP024",
+      "split": "test",
+      "text": "Hoàn tiền cho SP024 mất mấy ngày?",
+      "qrels": {
+        "SP024-refund": 1
+      }
+    },
+    {
+      "id": "q-SP024-cancel-0",
+      "group": "SP024",
+      "split": "test",
+      "text": "Làm sao dừng đơn mua SP024 trước khi gửi đi?",
+      "qrels": {
+        "SP024-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP024-cancel-1",
+      "group": "SP024",
+      "split": "test",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP024 được không?",
+      "qrels": {
+        "SP024-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP024-payment-0",
+      "group": "SP024",
+      "split": "test",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP024 không?",
+      "qrels": {
+        "SP024-payment": 1
+      }
+    },
+    {
+      "id": "q-SP024-payment-1",
+      "group": "SP024",
+      "split": "test",
+      "text": "Những phương thức thanh toán khi mua SP024 là gì?",
+      "qrels": {
+        "SP024-payment": 1
+      }
+    },
+    {
+      "id": "q-SP025-return-0",
+      "group": "SP025",
+      "split": "dev",
+      "text": "Tôi muốn gửi lại SP025, thời hạn là bao lâu?",
+      "qrels": {
+        "SP025-return": 1
+      }
+    },
+    {
+      "id": "q-SP025-return-1",
+      "group": "SP025",
+      "split": "dev",
+      "text": "SP025 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP025-return": 1
+      }
+    },
+    {
+      "id": "q-SP025-warranty-0",
+      "group": "SP025",
+      "split": "dev",
+      "text": "SP025 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP025-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP025-warranty-1",
+      "group": "SP025",
+      "split": "dev",
+      "text": "Thời gian bảo hành của SP025 là bao nhiêu?",
+      "qrels": {
+        "SP025-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP025-shipping-0",
+      "group": "SP025",
+      "split": "dev",
+      "text": "Đặt SP025 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP025-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP025-shipping-1",
+      "group": "SP025",
+      "split": "dev",
+      "text": "Mua SP025 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP025-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP025-refund-0",
+      "group": "SP025",
+      "split": "dev",
+      "text": "Sau khi duyệt trả SP025, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP025-refund": 1
+      }
+    },
+    {
+      "id": "q-SP025-refund-1",
+      "group": "SP025",
+      "split": "dev",
+      "text": "Hoàn tiền cho SP025 mất mấy ngày?",
+      "qrels": {
+        "SP025-refund": 1
+      }
+    },
+    {
+      "id": "q-SP025-cancel-0",
+      "group": "SP025",
+      "split": "dev",
+      "text": "Làm sao dừng đơn mua SP025 trước khi gửi đi?",
+      "qrels": {
+        "SP025-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP025-cancel-1",
+      "group": "SP025",
+      "split": "dev",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP025 được không?",
+      "qrels": {
+        "SP025-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP025-payment-0",
+      "group": "SP025",
+      "split": "dev",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP025 không?",
+      "qrels": {
+        "SP025-payment": 1
+      }
+    },
+    {
+      "id": "q-SP025-payment-1",
+      "group": "SP025",
+      "split": "dev",
+      "text": "Những phương thức thanh toán khi mua SP025 là gì?",
+      "qrels": {
+        "SP025-payment": 1
+      }
+    },
+    {
+      "id": "q-SP026-return-0",
+      "group": "SP026",
+      "split": "train",
+      "text": "Tôi muốn gửi lại SP026, thời hạn là bao lâu?",
+      "qrels": {
+        "SP026-return": 1
+      }
+    },
+    {
+      "id": "q-SP026-return-1",
+      "group": "SP026",
+      "split": "train",
+      "text": "SP026 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP026-return": 1
+      }
+    },
+    {
+      "id": "q-SP026-warranty-0",
+      "group": "SP026",
+      "split": "train",
+      "text": "SP026 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP026-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP026-warranty-1",
+      "group": "SP026",
+      "split": "train",
+      "text": "Thời gian bảo hành của SP026 là bao nhiêu?",
+      "qrels": {
+        "SP026-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP026-shipping-0",
+      "group": "SP026",
+      "split": "train",
+      "text": "Đặt SP026 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP026-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP026-shipping-1",
+      "group": "SP026",
+      "split": "train",
+      "text": "Mua SP026 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP026-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP026-refund-0",
+      "group": "SP026",
+      "split": "train",
+      "text": "Sau khi duyệt trả SP026, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP026-refund": 1
+      }
+    },
+    {
+      "id": "q-SP026-refund-1",
+      "group": "SP026",
+      "split": "train",
+      "text": "Hoàn tiền cho SP026 mất mấy ngày?",
+      "qrels": {
+        "SP026-refund": 1
+      }
+    },
+    {
+      "id": "q-SP026-cancel-0",
+      "group": "SP026",
+      "split": "train",
+      "text": "Làm sao dừng đơn mua SP026 trước khi gửi đi?",
+      "qrels": {
+        "SP026-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP026-cancel-1",
+      "group": "SP026",
+      "split": "train",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP026 được không?",
+      "qrels": {
+        "SP026-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP026-payment-0",
+      "group": "SP026",
+      "split": "train",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP026 không?",
+      "qrels": {
+        "SP026-payment": 1
+      }
+    },
+    {
+      "id": "q-SP026-payment-1",
+      "group": "SP026",
+      "split": "train",
+      "text": "Những phương thức thanh toán khi mua SP026 là gì?",
+      "qrels": {
+        "SP026-payment": 1
+      }
+    },
+    {
+      "id": "q-SP027-return-0",
+      "group": "SP027",
+      "split": "train",
+      "text": "Tôi muốn gửi lại SP027, thời hạn là bao lâu?",
+      "qrels": {
+        "SP027-return": 1
+      }
+    },
+    {
+      "id": "q-SP027-return-1",
+      "group": "SP027",
+      "split": "train",
+      "text": "SP027 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP027-return": 1
+      }
+    },
+    {
+      "id": "q-SP027-warranty-0",
+      "group": "SP027",
+      "split": "train",
+      "text": "SP027 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP027-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP027-warranty-1",
+      "group": "SP027",
+      "split": "train",
+      "text": "Thời gian bảo hành của SP027 là bao nhiêu?",
+      "qrels": {
+        "SP027-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP027-shipping-0",
+      "group": "SP027",
+      "split": "train",
+      "text": "Đặt SP027 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP027-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP027-shipping-1",
+      "group": "SP027",
+      "split": "train",
+      "text": "Mua SP027 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP027-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP027-refund-0",
+      "group": "SP027",
+      "split": "train",
+      "text": "Sau khi duyệt trả SP027, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP027-refund": 1
+      }
+    },
+    {
+      "id": "q-SP027-refund-1",
+      "group": "SP027",
+      "split": "train",
+      "text": "Hoàn tiền cho SP027 mất mấy ngày?",
+      "qrels": {
+        "SP027-refund": 1
+      }
+    },
+    {
+      "id": "q-SP027-cancel-0",
+      "group": "SP027",
+      "split": "train",
+      "text": "Làm sao dừng đơn mua SP027 trước khi gửi đi?",
+      "qrels": {
+        "SP027-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP027-cancel-1",
+      "group": "SP027",
+      "split": "train",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP027 được không?",
+      "qrels": {
+        "SP027-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP027-payment-0",
+      "group": "SP027",
+      "split": "train",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP027 không?",
+      "qrels": {
+        "SP027-payment": 1
+      }
+    },
+    {
+      "id": "q-SP027-payment-1",
+      "group": "SP027",
+      "split": "train",
+      "text": "Những phương thức thanh toán khi mua SP027 là gì?",
+      "qrels": {
+        "SP027-payment": 1
+      }
+    },
+    {
+      "id": "q-SP028-return-0",
+      "group": "SP028",
+      "split": "train",
+      "text": "Tôi muốn gửi lại SP028, thời hạn là bao lâu?",
+      "qrels": {
+        "SP028-return": 1
+      }
+    },
+    {
+      "id": "q-SP028-return-1",
+      "group": "SP028",
+      "split": "train",
+      "text": "SP028 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP028-return": 1
+      }
+    },
+    {
+      "id": "q-SP028-warranty-0",
+      "group": "SP028",
+      "split": "train",
+      "text": "SP028 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP028-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP028-warranty-1",
+      "group": "SP028",
+      "split": "train",
+      "text": "Thời gian bảo hành của SP028 là bao nhiêu?",
+      "qrels": {
+        "SP028-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP028-shipping-0",
+      "group": "SP028",
+      "split": "train",
+      "text": "Đặt SP028 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP028-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP028-shipping-1",
+      "group": "SP028",
+      "split": "train",
+      "text": "Mua SP028 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP028-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP028-refund-0",
+      "group": "SP028",
+      "split": "train",
+      "text": "Sau khi duyệt trả SP028, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP028-refund": 1
+      }
+    },
+    {
+      "id": "q-SP028-refund-1",
+      "group": "SP028",
+      "split": "train",
+      "text": "Hoàn tiền cho SP028 mất mấy ngày?",
+      "qrels": {
+        "SP028-refund": 1
+      }
+    },
+    {
+      "id": "q-SP028-cancel-0",
+      "group": "SP028",
+      "split": "train",
+      "text": "Làm sao dừng đơn mua SP028 trước khi gửi đi?",
+      "qrels": {
+        "SP028-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP028-cancel-1",
+      "group": "SP028",
+      "split": "train",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP028 được không?",
+      "qrels": {
+        "SP028-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP028-payment-0",
+      "group": "SP028",
+      "split": "train",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP028 không?",
+      "qrels": {
+        "SP028-payment": 1
+      }
+    },
+    {
+      "id": "q-SP028-payment-1",
+      "group": "SP028",
+      "split": "train",
+      "text": "Những phương thức thanh toán khi mua SP028 là gì?",
+      "qrels": {
+        "SP028-payment": 1
+      }
+    },
+    {
+      "id": "q-SP029-return-0",
+      "group": "SP029",
+      "split": "dev",
+      "text": "Tôi muốn gửi lại SP029, thời hạn là bao lâu?",
+      "qrels": {
+        "SP029-return": 1
+      }
+    },
+    {
+      "id": "q-SP029-return-1",
+      "group": "SP029",
+      "split": "dev",
+      "text": "SP029 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP029-return": 1
+      }
+    },
+    {
+      "id": "q-SP029-warranty-0",
+      "group": "SP029",
+      "split": "dev",
+      "text": "SP029 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP029-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP029-warranty-1",
+      "group": "SP029",
+      "split": "dev",
+      "text": "Thời gian bảo hành của SP029 là bao nhiêu?",
+      "qrels": {
+        "SP029-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP029-shipping-0",
+      "group": "SP029",
+      "split": "dev",
+      "text": "Đặt SP029 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP029-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP029-shipping-1",
+      "group": "SP029",
+      "split": "dev",
+      "text": "Mua SP029 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP029-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP029-refund-0",
+      "group": "SP029",
+      "split": "dev",
+      "text": "Sau khi duyệt trả SP029, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP029-refund": 1
+      }
+    },
+    {
+      "id": "q-SP029-refund-1",
+      "group": "SP029",
+      "split": "dev",
+      "text": "Hoàn tiền cho SP029 mất mấy ngày?",
+      "qrels": {
+        "SP029-refund": 1
+      }
+    },
+    {
+      "id": "q-SP029-cancel-0",
+      "group": "SP029",
+      "split": "dev",
+      "text": "Làm sao dừng đơn mua SP029 trước khi gửi đi?",
+      "qrels": {
+        "SP029-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP029-cancel-1",
+      "group": "SP029",
+      "split": "dev",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP029 được không?",
+      "qrels": {
+        "SP029-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP029-payment-0",
+      "group": "SP029",
+      "split": "dev",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP029 không?",
+      "qrels": {
+        "SP029-payment": 1
+      }
+    },
+    {
+      "id": "q-SP029-payment-1",
+      "group": "SP029",
+      "split": "dev",
+      "text": "Những phương thức thanh toán khi mua SP029 là gì?",
+      "qrels": {
+        "SP029-payment": 1
+      }
+    },
+    {
+      "id": "q-SP030-return-0",
+      "group": "SP030",
+      "split": "train",
+      "text": "Tôi muốn gửi lại SP030, thời hạn là bao lâu?",
+      "qrels": {
+        "SP030-return": 1
+      }
+    },
+    {
+      "id": "q-SP030-return-1",
+      "group": "SP030",
+      "split": "train",
+      "text": "SP030 được đổi trả trong mấy ngày?",
+      "qrels": {
+        "SP030-return": 1
+      }
+    },
+    {
+      "id": "q-SP030-warranty-0",
+      "group": "SP030",
+      "split": "train",
+      "text": "SP030 hỏng do nhà sản xuất thì sửa miễn phí bao lâu?",
+      "qrels": {
+        "SP030-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP030-warranty-1",
+      "group": "SP030",
+      "split": "train",
+      "text": "Thời gian bảo hành của SP030 là bao nhiêu?",
+      "qrels": {
+        "SP030-warranty": 1
+      }
+    },
+    {
+      "id": "q-SP030-shipping-0",
+      "group": "SP030",
+      "split": "train",
+      "text": "Đặt SP030 thì bao lâu nhận được hàng?",
+      "qrels": {
+        "SP030-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP030-shipping-1",
+      "group": "SP030",
+      "split": "train",
+      "text": "Mua SP030 cần bao nhiêu tiền để miễn phí giao hàng?",
+      "qrels": {
+        "SP030-shipping": 1
+      }
+    },
+    {
+      "id": "q-SP030-refund-0",
+      "group": "SP030",
+      "split": "train",
+      "text": "Sau khi duyệt trả SP030, khi nào tiền về tài khoản?",
+      "qrels": {
+        "SP030-refund": 1
+      }
+    },
+    {
+      "id": "q-SP030-refund-1",
+      "group": "SP030",
+      "split": "train",
+      "text": "Hoàn tiền cho SP030 mất mấy ngày?",
+      "qrels": {
+        "SP030-refund": 1
+      }
+    },
+    {
+      "id": "q-SP030-cancel-0",
+      "group": "SP030",
+      "split": "train",
+      "text": "Làm sao dừng đơn mua SP030 trước khi gửi đi?",
+      "qrels": {
+        "SP030-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP030-cancel-1",
+      "group": "SP030",
+      "split": "train",
+      "text": "Đã giao cho vận chuyển thì có hủy đơn SP030 được không?",
+      "qrels": {
+        "SP030-cancel": 1
+      }
+    },
+    {
+      "id": "q-SP030-payment-0",
+      "group": "SP030",
+      "split": "train",
+      "text": "Tôi có thể trả tiền mặt lúc nhận SP030 không?",
+      "qrels": {
+        "SP030-payment": 1
+      }
+    },
+    {
+      "id": "q-SP030-payment-1",
+      "group": "SP030",
+      "split": "train",
+      "text": "Những phương thức thanh toán khi mua SP030 là gì?",
+      "qrels": {
+        "SP030-payment": 1
+      }
+    }
+  ]
+}
